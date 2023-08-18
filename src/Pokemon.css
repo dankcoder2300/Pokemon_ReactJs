@@ -1,0 +1,11 @@
+.Pokemon h1{
+    color: Blue;
+}
+
+.Pokemon{
+    border: 1px solid black;
+}
+
+.Pokemon img{
+    width: 150px;
+}
